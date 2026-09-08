@@ -1,6 +1,6 @@
 # Contributing to a class project
 
-Use this workflow for every change:
+Use this workflow for every change: (new changes)
 
 1. Create or claim an Issue with a clear outcome.
 2. Update local `main`.
