@@ -1,4 +1,4 @@
-# GitHub Collaboration Kit for Design Students
+# GitHub Collaboration Kit for Design Students - test
 
 A beginner-friendly teaching kit for master’s design students who need to store, share, discuss, and safely improve a web-app project with Git and GitHub—with or without typing terminal commands.
 
